@@ -1,0 +1,10 @@
+<mvc:View controllerName="project1.controller.screen1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>   
+        <Text text="hi this is your first fiori app"></Text>
+        <Button text="click here to go in"></Button>
+         </content>
+    </Page>
+</mvc:View>
