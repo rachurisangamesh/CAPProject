@@ -3,6 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>   
+        
+        <input />
         <Text text="hi this is your first fiori app"></Text>
         <Button text="click here to go in"></Button>
          </content>
